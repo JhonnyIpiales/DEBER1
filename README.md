@@ -20,9 +20,9 @@ void setup()
  pinMode(6,OUTPUT);
  pinMode(5,OUTPUT);
  pinMode(4,OUTPUT);
-  pinMode(1,INPUT);
-  pinMode(2,INPUT);
-  pinMode(3,INPUT);
+ pinMode(1,INPUT);
+ pinMode(2,INPUT);
+ pinMode(3,INPUT);
 }
 
 void loop() {
