@@ -1,5 +1,4 @@
-# DEBER1
-ARDUINO
+# DEBER1 ARDUINO
 int in=14;
 int p=15;
 int vector[10]={4,5,6,7,8,9,10,11,12,13};
